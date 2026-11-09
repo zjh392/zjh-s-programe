@@ -10,6 +10,9 @@ test yourself https://github.com/zjh392/QuestionStoreBuilder
 
 Database Scanner https://github.com/zjh392/databaseScanner
 
+## Browser plugin
+PDF contents adder. It can add content online and you can choose whether or not to export the PDF with contents.
+
 ## obsidian plugins
 
 
